@@ -5,7 +5,7 @@ projet IA 2021-2022
 
 encadré par: M. HAJJI TARIK
 
-Khalil Hamdouch
+
 Oussama Oussous
 
 # Problem Statement
